@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "95+ceENsRjFg40rRFlOoHsOXm8gh6Jd0JSicl0TlDqgk515raNwUivfWEYrTvcrnQ7k5y3RU5PDlpHi8KIdHHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\clavi\\OneDrive\\Desktop\\React Component\\ReactComponent\\Solutions\\Solutions.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\clavi\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\clavi\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\clavi\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.39.3\\microsoft.powerapps.msbuild.pcf.1.39.3.nupkg.sha512",
+    "C:\\Users\\clavi\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.39.3\\microsoft.powerapps.msbuild.solution.1.39.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,20 @@
+2025-01-26 17:30:39.736 - Info	
+Packing C:\Users\clavi\OneDrive\Desktop\React Component\ReactComponent\Solutions\obj\Debug\Metadata to bin\Debug\Solutions.zip
+
+2025-01-26 17:30:39.751 - Info	Processing Component: Entities
+2025-01-26 17:30:39.757 - Info	Processing Component: Roles
+2025-01-26 17:30:39.761 - Info	Processing Component: Workflows
+2025-01-26 17:30:39.762 - Info	Processing Component: FieldSecurityProfiles
+2025-01-26 17:30:39.763 - Info	Processing Component: Templates
+2025-01-26 17:30:39.766 - Info	Processing Component: EntityMaps
+2025-01-26 17:30:39.766 - Info	Processing Component: EntityRelationships
+2025-01-26 17:30:39.769 - Info	Processing Component: OrganizationSettings
+2025-01-26 17:30:39.771 - Info	Processing Component: optionsets
+2025-01-26 17:30:39.771 - Info	Processing Component: CustomControls
+2025-01-26 17:30:39.777 - Info	 - ReactCounterNamespace.ReactCounter
+2025-01-26 17:30:39.782 - Info	Processing Component: SolutionPluginAssemblies
+2025-01-26 17:30:39.783 - Info	Processing Component: EntityDataProviders
+2025-01-26 17:30:39.789 - Info	Processing Sharded Component Files
+2025-01-26 17:30:39.824 - Info	
+Unmanaged Pack complete.
+

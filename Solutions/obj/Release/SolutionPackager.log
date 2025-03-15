@@ -1,0 +1,20 @@
+2025-03-15 22:31:49.194 - Info	
+Packing D:\GBBP2025\Counter_ReactComponent\Solutions\obj\Release\Metadata to bin\Release\Solutions.zip
+
+2025-03-15 22:31:49.206 - Info	Processing Component: Entities
+2025-03-15 22:31:49.209 - Info	Processing Component: Roles
+2025-03-15 22:31:49.213 - Info	Processing Component: Workflows
+2025-03-15 22:31:49.217 - Info	Processing Component: FieldSecurityProfiles
+2025-03-15 22:31:49.219 - Info	Processing Component: Templates
+2025-03-15 22:31:49.220 - Info	Processing Component: EntityMaps
+2025-03-15 22:31:49.221 - Info	Processing Component: EntityRelationships
+2025-03-15 22:31:49.223 - Info	Processing Component: OrganizationSettings
+2025-03-15 22:31:49.223 - Info	Processing Component: optionsets
+2025-03-15 22:31:49.224 - Info	Processing Component: CustomControls
+2025-03-15 22:31:49.230 - Info	 - ReactCounterNamespace.ReactCounter
+2025-03-15 22:31:49.232 - Info	Processing Component: SolutionPluginAssemblies
+2025-03-15 22:31:49.233 - Info	Processing Component: EntityDataProviders
+2025-03-15 22:31:49.238 - Info	Processing Sharded Component Files
+2025-03-15 22:31:49.275 - Info	
+Managed Pack complete.
+

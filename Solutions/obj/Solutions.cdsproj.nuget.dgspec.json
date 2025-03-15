@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\clavi\\OneDrive\\Desktop\\React Component\\ReactComponent\\Solutions\\Solutions.cdsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\clavi\\OneDrive\\Desktop\\React Component\\ReactComponent\\ReactComponent.pcfproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\clavi\\OneDrive\\Desktop\\React Component\\ReactComponent\\ReactComponent.pcfproj",
+        "projectName": "ReactComponent",
+        "projectPath": "C:\\Users\\clavi\\OneDrive\\Desktop\\React Component\\ReactComponent\\ReactComponent.pcfproj",
+        "packagesPath": "C:\\Users\\clavi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\clavi\\OneDrive\\Desktop\\React Component\\ReactComponent\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\clavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Pcf": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\clavi\\OneDrive\\Desktop\\React Component\\ReactComponent\\Solutions\\Solutions.cdsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\clavi\\OneDrive\\Desktop\\React Component\\ReactComponent\\Solutions\\Solutions.cdsproj",
+        "projectName": "Solutions",
+        "projectPath": "C:\\Users\\clavi\\OneDrive\\Desktop\\React Component\\ReactComponent\\Solutions\\Solutions.cdsproj",
+        "packagesPath": "C:\\Users\\clavi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\clavi\\OneDrive\\Desktop\\React Component\\ReactComponent\\Solutions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\clavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {
+              "C:\\Users\\clavi\\OneDrive\\Desktop\\React Component\\ReactComponent\\ReactComponent.pcfproj": {
+                "projectPath": "C:\\Users\\clavi\\OneDrive\\Desktop\\React Component\\ReactComponent\\ReactComponent.pcfproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Solution": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
